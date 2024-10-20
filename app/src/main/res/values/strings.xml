@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTabLayout</string>
+    <string name="register">Already Have an Account?  <font color="#525bff">Log in</font></string>
+    <string name="termCondition">By checking the box you agree to our <font color='#525BFF'>Terms</font> and <font color='#525BFF'>Conditions</font>.</string>
+    <string name="newMember">New Member? <font color="#525bff">Register</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_register">Register</string>
+    <string name="tab_login">Log In</string>
+</resources>
